@@ -1,0 +1,21 @@
+.container-fluid{
+    background-image: url(bg.jpg);
+}
+.btn1{
+    border: none;
+    border-radius: 10px;
+    
+}
+
+.box1{
+    text-align: center;
+    height: 100vh;
+}
+
+.box2{
+    font-size: 30px;
+}
+.row{
+    --bs-gutter-x: 0 !important;
+}
+
